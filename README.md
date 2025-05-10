@@ -1,4 +1,4 @@
-# practica_2_bdd
+# Practica Numero 2 de la materia Desarrollo de Aplicaciones Moviles
 
 A new Flutter project.
 
